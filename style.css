@@ -57,7 +57,7 @@
     padding: 20px 28px 20px 28px;
     /* height: 64px; */
     border-radius: 5px;
-    background:  #FD6E0A
+    background:  #f9004d
 }
 
 /* About Me Styles */
@@ -83,7 +83,7 @@
 }
 h1{
     font-weight: 700;
-    font-size: 40px;
+    font-size: 50px;
     line-height: 47px;
     color: #151414;
     margin-bottom: 24px;
@@ -121,7 +121,7 @@ p i{
 }
 .skill-head{
     font-weight: 700;
-    font-size: 40px;
+    font-size: 70px;
     line-height: 47px;
     color: #151414;
     text-align: center;
@@ -268,8 +268,8 @@ h5{
 .contact{
     
     display: flex;
-    gap: 100px;
-    padding: 130px 130px;
+    gap: 330px;
+    padding: 130px 230px;
     background: #101010;
     width: 100%;
     /* padding: 100px 0px; */
@@ -280,18 +280,49 @@ h5{
     font-weight: 700;
     font-size: 45px;
     color: #F8F8F8;
+    margin-bottom: 15px;
 }
 
 .contact-description{
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
+    margin-bottom: 24px;
 }
 
-p{
+.c-pera{
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;  
+}
+.c-pera1{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;  
+    margin-bottom: 10px;
+}
+
+.c-form {
+    margin-bottom: 15px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    width: 100%;
+    padding: 16px 30px;
+    color: #ffffff;
+    background-color: #10101000;
+    
+}
+
+.btn-primary-c{
+    
+    color:#f9004d;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    padding: 20px 30px 20px 30px;
+    /* height: 64px; */
+    border-radius: 5px;
+    background:  #FFFFFF; 
 }
 
   
