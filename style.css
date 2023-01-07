@@ -16,7 +16,7 @@
     top: 0px;
    
    
-    background-image: url('../images/banner/banner2.png');
+    background-image: url('./images/banner/banner2.png');
     /* transform: matrix(-1, 0, 0, 1, 0, 0); */
     background-repeat: no-repeat;
     background-size: cover;
